@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /minimal-login.html
+Disallow: /minimal-dashboard.html
